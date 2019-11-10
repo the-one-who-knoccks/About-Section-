@@ -1,5 +1,7 @@
 # About-Section
 
+Layout responsive de uma sesction sobre/about de um site.
+
 <img src="preview/01.png">
 </br>
 
